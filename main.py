@@ -4,6 +4,7 @@ instanzlist = []
 #   1-value --> zeigt den Wert von sich
 #   2-next  --> zeigt nächste
 #   3-previous --> zeigt vorherige
+#   4-delete() --> löschen
 class Node:
     def __init__(self,value):
         self.value = value
