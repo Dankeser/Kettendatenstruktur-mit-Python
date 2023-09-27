@@ -5,4 +5,5 @@ Kettendatenstruktur ist ein Datenstruktur wie eine Kette, indem jede Teile von K
 Um ein neue Kette zu erstellen, geben wir eine liste in Chain Klasse ein und speichern es in einer Variable.
 Dann können wir mit İndexnummer die Nachbarn erhalten, indem wir .value, .next, .previous Attribute benutzen.
 Beispiel:
+
 ![image](https://github.com/Dankeser/Kettendatenstruktur-mit-Python/assets/131388485/297c2a69-d38a-4a87-880c-311d17f5f91d)
