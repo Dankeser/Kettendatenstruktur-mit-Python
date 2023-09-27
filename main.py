@@ -1,6 +1,6 @@
 instanzlist = []
 
-# Node enthält 3 Methoden:
+# Node enthält 4 Methoden:
 #   1-value --> zeigt den Wert von sich
 #   2-next  --> zeigt nächste
 #   3-previous --> zeigt vorherige
