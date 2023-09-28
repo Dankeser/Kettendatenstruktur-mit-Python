@@ -19,8 +19,7 @@ class Chain:
     # das ermöglicht uns es, dem Objekt ein index zu geben
     def __getitem__(self, item):
         if item > len(self.list)-1:
-            print("error")
-            return
+            raise IndexError("list index out of range")
         else:
             return self.list[item]
 
