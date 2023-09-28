@@ -18,5 +18,5 @@ Egal ob Nummer ist
 ```
 Zusätzlich hat Chain Klasse .delete Attribute, was den Teil der Kette löscht:
 ```
-newchain.delete(2) # das löscht das zweite
+newchain.delete(2) # das löscht das dritte element
 ```
